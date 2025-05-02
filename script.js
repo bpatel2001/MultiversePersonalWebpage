@@ -15,5 +15,5 @@ document.querySelector(".portfolio-button").addEventListener("click", () => {
 });
 
 document.querySelector(".resume-button").addEventListener("click", () => {
-    window.location.href = "/home/BPatelResume.pdf";
+    window.location.href = "/BPatelResume.pdf";
 });
