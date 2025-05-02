@@ -1,5 +1,5 @@
 document.querySelector(".home-button").addEventListener("click", () => {
-    window.location.href = "/home/index.html";
+    window.location.href = "/index.html";
 });
 
 document.querySelector(".bio-button").addEventListener("click", () => {
